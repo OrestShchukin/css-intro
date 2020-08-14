@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Bahiana&display=swap');
+
+*{box-sizing:border-box}
+h1{
+    color: red;
+    font-family: 'Bahiana', cursive;
+}
